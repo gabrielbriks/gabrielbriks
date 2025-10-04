@@ -10,7 +10,7 @@
 
 
 
-## 🇧🇷 Sobre mim | About me 🇬🇧
+## 🇧🇷 Sobre mim | About me 🇺🇸
 
 **PT-BR:**  
 Full Stack Developer com mais de 3 anos de experiência em soluções web e mobile, especializado em .NET, Node.js e React. Apaixonado por tecnologia e aprendizado contínuo, gosto de transformar ideias em soluções reais. No tempo livre, curto explorar novas stacks, compartilhar conhecimento e acompanhar novidades do mundo tech.  
