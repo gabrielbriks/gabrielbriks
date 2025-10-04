@@ -40,17 +40,17 @@ TypeScript, Docker, Git, REST APIs, Jest, Vitest, xUnit
 
 ## 🚀 Destaques | Featured Projects
 
-- [christmas-morais](https://github.com/gabrielbriks/christmas-morais) <br>
-  Projeto especial de natal com foco em integração e celebração com tecnologia.
+- [christmas-morais](https://github.com/gabrielbriks/christmas-morais)  
+  Special Christmas project focused on integration and celebration with technology.
 
-- [notifications-service](https://github.com/gabrielbriks/notifications-service) <br>
-  Microserviço robusto para gerenciamento e envio de notificações.
+- [notifications-service](https://github.com/gabrielbriks/notifications-service)  
+  Robust microservice for notification management and delivery.
 
-- [helpme](https://github.com/gabrielbriks/helpme) <br>
-  Plataforma colaborativa para suporte e resolução de dúvidas técnicas.
+- [helpme](https://github.com/gabrielbriks/helpme)  
+  Collaborative platform for technical support and problem-solving.
 
-- [nestjs-auth-rbac-abac](https://github.com/gabrielbriks/nestjs-auth-rbac-abac) <br>
-  Sistema avançado de autenticação e autorização com RBAC/ABAC usando NestJS.
+- [nestjs-auth-rbac-abac](https://github.com/gabrielbriks/nestjs-auth-rbac-abac)  
+  Advanced authentication and authorization system with RBAC/ABAC using NestJS.
 
 
 
