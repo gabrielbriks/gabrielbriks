@@ -43,13 +43,13 @@ TypeScript, Docker, Git, REST APIs, Jest, Vitest, xUnit
 - [christmas-morais](https://github.com/gabrielbriks/christmas-morais)  
   Special Christmas project focused on integration and celebration with technology.
 
-- [dot-servicex](https://github.com/gabrielbriks/dot-servicex)
+- [dot-servicex](https://github.com/gabrielbriks/dot-servicex)  
   Hands-on learning project in .NET, designed to explore core patterns and concepts of microservices architecture in a simplified way.
 
 - [notifications-service](https://github.com/gabrielbriks/notifications-service)  
   Robust microservice for notification management and delivery.
 
-- [servicex-nodejs](https://github.com/gabrielbriks/servicex-nodejs)
+- [servicex-nodejs](https://github.com/gabrielbriks/servicex-nodejs)  
   Practical learning project in Node.js to explore fundamental patterns and concepts of a simplified microservices architecture.
 
 - [helpme](https://github.com/gabrielbriks/helpme)  
