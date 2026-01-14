@@ -44,7 +44,7 @@ TypeScript, Docker, Git, REST APIs, Jest, Vitest, xUnit
   Special Christmas project focused on integration and celebration with technology.
 
 - [dot-servicex](https://github.com/gabrielbriks/dot-servicex)
-- Hands-on learning project in .NET, designed to explore core patterns and concepts of microservices architecture in a simplified way.
+  Hands-on learning project in .NET, designed to explore core patterns and concepts of microservices architecture in a simplified way.
 
 - [notifications-service](https://github.com/gabrielbriks/notifications-service)  
   Robust microservice for notification management and delivery.
